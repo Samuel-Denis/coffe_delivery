@@ -36,3 +36,6 @@ In addition to all the React fundamentals, the ContextAPI was used to share the 
 ## 💛 Contact
 
 - Email --> samueldenisbb@gmail.com
+
+
+OBS: PARA QUE AS IMAGENS CARREGUEM NO ARQUIVO src/CoffeeListArray.ts COLOQUE SEU LOCALHOST
