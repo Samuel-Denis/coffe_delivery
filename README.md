@@ -1,3 +1,6 @@
+OBS: PARA QUE AS IMAGENS CARREGUEM, NO ARQUIVO src/CoffeeListArray.ts SUBSTITUA A VARIÁVEL
+url, COLOQUE SEU LOCALHOST
+
 # Coffee Delivery
 
 ![preview](./.github/Home.png)
@@ -38,4 +41,3 @@ In addition to all the React fundamentals, the ContextAPI was used to share the 
 - Email --> samueldenisbb@gmail.com
 
 
-OBS: PARA QUE AS IMAGENS CARREGUEM NO ARQUIVO src/CoffeeListArray.ts COLOQUE SEU LOCALHOST
